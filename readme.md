@@ -37,10 +37,15 @@ Pseudocode is a detailed yet readable description of what a computer program or 
 
 ## HOMEWORK QUESTIONS 
 🔹 Multiply 2 numbers by taking inputs.
+
 🔹 Find the perimeter of a triangle.
+
 🔹 Find Simple Interest.
+
 🔹 Print counting from N to 1.
+
 🔹 Find the factorial of a number
+
 🔹 check Prime or not.
 
 
@@ -71,7 +76,11 @@ Type casting refers to converting one data type to another in a program. Typecas
 
 # Operators : 
 🔹 Arithmetic (+ , - , * , / , %)
+
 🔹 Relational (> , < , <= , >= , != ,== )
+
 🔹 Assignment ( = )
+
 🔹 Logical (&& , || , !)
+
 🔹 Bitwise ( TODO :: pending )
