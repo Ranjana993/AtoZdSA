@@ -81,22 +81,24 @@ Type casting refers to the conversion of one data type tp another in a prpgram .
 
 # 🔵 Conditions 
 
-🔹 If condition : Use if to specify a block of code to be executed, if a specified condition is true
+🔹 If condition: Use if to specify a block of code to be executed, if a specified condition is true
 
 `if (condition) {
   // block of code to be executed if the condition is true
 }`
 
-🔹 else : Use else to specify a block of code to be executed, if the same condition is false 
+🔹 else: Use else to specify a block of code to be executed, if the same condition is false 
 
-`if (condition) {
+`
+if (condition) {
   // block of code to be executed if the condition is true
 } else {
-  // block of code to be executed if the condition is false
-}`
+  // block of code to be executed if the condition is false  
+}
+`
 
 
-🔹 else if  :  Use else if to specify a new condition to test, if the first condition is false
+🔹 else if:  Use else if to specify a new condition to test, if the first condition is false
 
 `if (condition1) {
   // block of code to be executed if condition1 is true
@@ -108,7 +110,7 @@ else {
   // block of code to be executed if the condition1 is false and condition2 is false
 }`
 
-🔹 nested  if else :  Same  like else if only the differenece is that we nest the condition .
+🔹 nested  if else:  Same  like else if only the difference is that we nest the condition.
 
 `if (condition1) {
   // block of code to be executed if condition1 is true
@@ -123,7 +125,7 @@ else{
 }
 `
 
-🔹 Switch  : Use switch to specify many alternative blocks of code to be executed
+🔹 Switch: Use the switch to specify many alternative blocks of code to be executed
 
 
 # 🔵 LOOPS : 
