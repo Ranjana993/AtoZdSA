@@ -75,3 +75,68 @@ Type casting refers to the conversion of one data type tp another in a prpgram .
 🔹 Assignment ( = )
 🔹 Logical (&& , || , !)
 🔹 Bitwise ( TODO :: pending )
+
+
+## Lecture - 03 ;
+
+# 🔵 Conditions 
+
+🔹 If condition : Use if to specify a block of code to be executed, if a specified condition is true
+
+`if (condition) {
+  // block of code to be executed if the condition is true
+}`
+
+🔹 else : Use else to specify a block of code to be executed, if the same condition is false 
+
+`if (condition) {
+  // block of code to be executed if the condition is true
+} else {
+  // block of code to be executed if the condition is false
+}`
+
+
+🔹 else if  :  Use else if to specify a new condition to test, if the first condition is false
+
+`if (condition1) {
+  // block of code to be executed if condition1 is true
+} 
+else if (condition2) {
+  // block of code to be executed if the condition1 is false and condition2 is true
+} 
+else {
+  // block of code to be executed if the condition1 is false and condition2 is false
+}`
+
+🔹 nested  if else :  Same  like else if only the differenece is that we nest the condition .
+
+`if (condition1) {
+  // block of code to be executed if condition1 is true
+} 
+else{
+  if (condition2) {
+    // block of code to be executed if the condition1 is false and condition2 is true
+   } 
+    else {
+     // block of code to be executed if the condition1 is false and condition2 is false
+    }
+}
+`
+
+🔹 Switch  : Use switch to specify many alternative blocks of code to be executed
+
+
+# 🔵 LOOPS : 
+
+🔹 For loop 
+When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop
+
+`for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}`
+
+Statement 1 is executed (one time) before the execution of the code block.
+
+Statement 2 defines the condition for executing the code block.
+
+Statement 3 is executed (every time) after the code block has been executed.
