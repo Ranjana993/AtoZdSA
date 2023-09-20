@@ -35,14 +35,6 @@ PseudoCode is a detailed yet readable description of what a computer program or 
 08. Add N numbers from user .
 09. Printing 1 to N but only Odd numbers .
 
-## HOMEWORK QUESTIONS 
-🔹 Multiply 2 number by taking inputs.
-🔹 Find the perimeter of a triangle .
-🔹 Find Simple Interest .
-🔹 Print couting from N to 1 .
-🔹 Find factorial of a number
-🔹 check Prime or not .
-
 
 # Create Your First Program 🔥
 
@@ -140,3 +132,32 @@ Statement 1 is executed (one time) before the execution of the code block.
 Statement 2 defines the condition for executing the code block.
 
 Statement 3 is executed (every time) after the code block has been executed.
+
+
+
+## ASSIGNMENT OF WEEK 1 : 
+
+### flowcharts 
+
+🔹01. Multiplication of two numbers .
+
+🔹02. Perimeter of Triangle .
+
+🔹03. Find Simple Intrest .
+
+🔹04. Print counting from 1 to N .
+
+🔹05. Find the factorial of a number 
+
+🔹06. Check if a number is prime or not .
+
+🔹 07.Check if a given triangle is Valid or not .
+
+🔹 08. Print only even number from 1 to N .
+
+🔹 09. Print maximum of three numbers .
+
+
+### pattern 
+
+
