@@ -73,22 +73,24 @@ Type casting refers to the conversion of one data type tp another in a prpgram .
 
 # 🔵 Conditions 
 
-🔹 If condition : Use if to specify a block of code to be executed, if a specified condition is true
+🔹 If condition: Use if to specify a block of code to be executed, if a specified condition is true
 
 `if (condition) {
   // block of code to be executed if the condition is true
 }`
 
-🔹 else : Use else to specify a block of code to be executed, if the same condition is false 
+🔹 else: Use else to specify a block of code to be executed, if the same condition is false 
 
-`if (condition) {
+`
+if (condition) {
   // block of code to be executed if the condition is true
 } else {
-  // block of code to be executed if the condition is false
-}`
+  // block of code to be executed if the condition is false  
+}
+`
 
 
-🔹 else if  :  Use else if to specify a new condition to test, if the first condition is false
+🔹 else if:  Use else if to specify a new condition to test, if the first condition is false
 
 `if (condition1) {
   // block of code to be executed if condition1 is true
@@ -100,7 +102,7 @@ else {
   // block of code to be executed if the condition1 is false and condition2 is false
 }`
 
-🔹 nested  if else :  Same  like else if only the differenece is that we nest the condition .
+🔹 nested  if else:  Same  like else if only the difference is that we nest the condition.
 
 `if (condition1) {
   // block of code to be executed if condition1 is true
@@ -115,7 +117,7 @@ else{
 }
 `
 
-🔹 Switch  : Use switch to specify many alternative blocks of code to be executed
+🔹 Switch: Use the switch to specify many alternative blocks of code to be executed
 
 
 # 🔵 LOOPS : 
@@ -132,32 +134,3 @@ Statement 1 is executed (one time) before the execution of the code block.
 Statement 2 defines the condition for executing the code block.
 
 Statement 3 is executed (every time) after the code block has been executed.
-
-
-
-## ASSIGNMENT OF WEEK 1 : 
-
-### flowcharts 
-
-🔹01. Multiplication of two numbers .
-
-🔹02. Perimeter of Triangle .
-
-🔹03. Find Simple Intrest .
-
-🔹04. Print counting from 1 to N .
-
-🔹05. Find the factorial of a number 
-
-🔹06. Check if a number is prime or not .
-
-🔹 07.Check if a given triangle is Valid or not .
-
-🔹 08. Print only even number from 1 to N .
-
-🔹 09. Print maximum of three numbers .
-
-
-### pattern 
-
-
