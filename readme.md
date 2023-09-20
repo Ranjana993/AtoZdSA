@@ -134,3 +134,35 @@ Statement 1 is executed (one time) before the execution of the code block.
 Statement 2 defines the condition for executing the code block.
 
 Statement 3 is executed (every time) after the code block has been executed.
+<<<<<<< HEAD
+
+
+
+## ASSIGNMENT OF WEEK 1 : 
+
+### flowcharts 
+
+🔹01. Multiplication of two numbers .
+
+🔹02. Perimeter of Triangle .
+
+🔹03. Find Simple Intrest .
+
+🔹04. Print counting from 1 to N .
+
+🔹05. Find the factorial of a number 
+
+🔹06. Check if a number is prime or not .
+
+🔹 07.Check if a given triangle is Valid or not .
+
+🔹 08. Print only even number from 1 to N .
+
+🔹 09. Print maximum of three numbers .
+
+
+### pattern 
+
+
+=======
+>>>>>>> e741d88154797c274ceaaa8d7c8a71a5fcac5213
