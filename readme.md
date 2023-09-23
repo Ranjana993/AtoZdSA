@@ -161,8 +161,137 @@ Statement 3 is executed (every time) after the code block has been executed.
 🔹 09. Print maximum of three numbers .
 
 
-### pattern 
+
+# WEEK-02 
+
+## Pattern 
 
 
-=======
->>>>>>> e741d88154797c274ceaaa8d7c8a71a5fcac5213
+
+
+
+
+
+
+## Function : 
+
+Linked with a well defined task .
+            OR 
+Set of well defined piece of code .             
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220719123136/FunctionPrototypeincppmin-660x330.png" alt="AddTwoNumbersFlowchart" />
+
+
+### Function Call Stack 
+
+A call stack in C is the stack that holds all the function calls, with the bottom elements as the main function. It contains information of the active functions of the program. It is also called the program stack.
+
+## Function HomeWork 
+
+🔹01. Write a function to displaye area of circle 
+
+🔹02. find number is even or odd 
+
+🔹03. find factorial of a number
+
+🔹04. check umber is prime or not 
+
+🔹05. Print all prime numbers from 1 to N 
+
+
+# Bitwise operator 
+
+### AND (&&)
+
+### OR (||)
+
+### NOT ( ~ )
+
+### XOR ( ^ )
+
+### Left shift ( << )
+
+### Right Shift ( >> )
+
+
+## Pre / Post -> Increment/Decremnet 
+
+🔹 a++
+
+🔹 ++a
+
+🔹 a--
+
+🔹 --a 
+
+### Break and Continue Keyword
+
+### Variable Scoping : Local and Global 
+
+### Switch Case 
+
+
+
+
+
+# NUMBER SYSTEM 
+
+## What is number System ?
+
+1 . Method to reperesent numeric values or quantities using different  digits .
+
+###  Decimal Number System 
+
+1. The decimal number system has base 10 .
+
+2. It uses digits from 0 to 9 .
+
+3. Base : it is the number of Symbol (digits ) a number system users .
+
+### Binary number system 
+
+1. Number system using base 2 .
+
+2. It uses only two digits i'e., 0 and 1 .
+
+
+### Decimal to Binary Conversion .
+
+🔵 Division Method
+
+🔹 Divide number by 2 .
+
+🔹 Store reminder . (That will be a bit in binary number ).
+
+🔹 Reapeat about steps with the Quotient until  quotient is less than 2 .
+
+🔹 Reverse the bits so obtained .
+
+
+🔵 Bitwise method 
+
+🔹  Obtain bit with bitwise AND operation i'e., (N& 1 ).
+
+🔹 Right Shift N by 1 . (N = N >> 1 ).
+
+🔹 Repeat above steps till N> 0 .
+
+🔹 Reverse the bits so obtained .
+
+
+### Binary to Decimal Conversion 
+
+🔹 Multiple each digit with its place value .
+
+🔹 Add up all place values .
+
+🔹 Sum is the Decimal number .
+
+
+
+
+
+
+
+
+
