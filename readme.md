@@ -290,7 +290,49 @@ A call stack in C is the stack that holds all the function calls, with the botto
 
 
 
+# WEEK - 03 (Time ans Space complexty )
 
+## What is time complexity ?
+
+Amount of time taken by an algorithm to run as a function of length .
+
+## Why to study T&S complexity ?
+
+1. Good computer engineer always thinks about the complexity of the code written by him .
+
+2. Resources are limited .
+
+3. Measure algorithm to make efficient programs .
+
+4. Asked by interviewer after every solution you give .
+
+## Space complexity ..
+
+### What is Space complexity ?
+
+1. Amount of space taken by an algorithm to sum as a function of length of input .
+
+### Unit to represent complexity ..
+
+1. Big O : Upper bound .
+
+  * Constant time O(1).
+
+  * Liner time : O(n) 
+
+  * Logarithm time O(log N)
+
+  * Quadratic time O(N^2 )
+
+  * Cubic time : O(N ^ 3 )
+
+
+
+
+
+2. Theta 0: Average case .
+
+3. Omega : lower bound .
 
 
 
