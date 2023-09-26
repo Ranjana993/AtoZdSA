@@ -327,13 +327,46 @@ Amount of time taken by an algorithm to run as a function of length .
   * Cubic time : O(N ^ 3 )
 
 
-
-
-
 2. Theta 0: Average case .
 
 3. Omega : lower bound .
 
 
+## ARRAY : 
+
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+`int myNum[3] = {10, 20, 30};
+`
 
 
+### Why array is needed ?
+
+An array is a collection of variables in same datatype. we can't group different data types in array. Like, combination of integer and char, char and float etc. Hence Array is called as homogeneous data type.
+
+
+
+# Vector : 
+
+Vectors are the same as dynamic arrays with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container.
+
+`vector<int>arr ; `
+
+`vector<int>arr(size , initialised element);`
+
+
+`vector<int>arr{2,3,4,5,6};`
+
+
+
+## Methods (function) in vector ...
+
+* push_back()
+
+* pop_back() 
+
+* size();
+
+* capacity()
+
+* empty();
