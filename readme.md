@@ -370,3 +370,18 @@ Vectors are the same as dynamic arrays with the ability to resize itself automat
 * capacity()
 
 * empty();
+
+
+## WEEK - 03 ASSIGNMENTS 
+
+🔹  SORT 0 , 1 , 2  https://leetcode.com/problems/sort-colors/description/
+
+🔹  MOVE ALL NEGATIVE TO LEFT SIDE OF AN ARRAY ....
+
+🔹  REMOVE DUPLICATES FROM ARRAY ....
+
+🔹   MISSING ELEMENT FROM AN ARRAY WITH DUPLICATES....
+
+🔹 COMMON ELEMENTS https://practice.geeksforgeeks.org/problems/common-elements1132/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+🔹 SPIRAL PRINT https://leetcode.com/problems/spiral-matrix/
