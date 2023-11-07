@@ -385,3 +385,16 @@ Vectors are the same as dynamic arrays with the ability to resize itself automat
 🔹 COMMON ELEMENTS https://practice.geeksforgeeks.org/problems/common-elements1132/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 
 🔹 SPIRAL PRINT https://leetcode.com/problems/spiral-matrix/
+
+
+
+
+# Week- 05 Homework Questions list ;
+
+
+## 01: https://leetcode.com/problems/valid-anagram/
+
+
+
+
+
